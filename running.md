@@ -1,7 +1,6 @@
-« [[Start|Start]]
+# Running
 
-====== Running ======
-===== Mileage =====
+## Mileage
 
 ^ Month ^ Road ^ Trail ^ Total ^ TTD ^
 | January 2012 | 3.19 | 4.52 | 7.71 | 7.71 |
@@ -13,9 +12,9 @@
 | July 2011 | 5.85 | 0.00 | 5.85 | 12.72 |
 | June 2011 | 6.87 | 0.00 | 6.87 | 6.87 |
 
-===== Events =====
+## Events
 
-==== 2011 ====
+### 2011
 
   * Frostbite #5 (2/4): 3mi: 22:41, 145th overal, 9th in AG (7:34)
   * Frostbite #4 (1/28): 4mi: 34:09, 145th, 7th in AG (8:32)
@@ -27,39 +26,39 @@
   * Alpine Shop Trail Running #2 (8/11): 3.3mi: 32:07, 54th overall, 27th in AG (9:48)
   * Alpine Shop Trail Running #1 (8/4): 2.4mi: 20:44, 57th overall, 30th in AG (9:01)
 
-==== 2009 ====
+### 2009
 
   * St. Louis Track Club Frostbite Series #3 (1/10): 20 km: 1:57:04 (9:26)
 
-==== 2008 ====
+### 2008
 
   * St. Louis Track Club Frostbite Series #2 (12/27): 10 mi: 1:33:24 (9:21)
   * St. Louis Track Club Frostbite Series #1 (12/13): 12 km: 1:06:20 (8:54)
   * North Face Endurance Challenge (Washington, DC): Half Marathon (CANCELED)
   * Go! St. Louis Half Marathon: 2:16:22 (10:24)
 
-==== 2007 ====
+### 2007
 
   * Army 10 Miler (5/1) (Washington, DC)
   * St. Louis Track Club Frostbite Series #1 (12/15): 12 km: 1:19:14 (10:38)
   * St. Louis Track Club Frostbite Series #2 (12/29): 10 mi: 1:37:30 (9:45)
 
-===== Personal Records =====
+## Personal Records
 
-==== Half Marathon (13.1 mile) ====
+### Half Marathon (13.1 mile)
 
 GO! St. Louis Marathon 2008: 2:16:22 (10:24)
 
-==== 10 Mile ====
+### 10 Mile
 
   * St. Louis Track Club Frostbite Series: 1:37:30 (9:45) 2007
   * Unofficial: 1:31:16 (9:04) 2008
 
-==== 12K (7.45 mile) ====
+### 12K (7.45 mile)
 
 St. Louis Track Club Frostbite Series: 1:06:20 (8:54) 2008
 
-==== 6 Mile ====
+### 6 mile
 
 Unofficial: 56:18 (9:23) 2008-05-27
 

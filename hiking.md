@@ -1,4 +1,6 @@
-====== 2013 ======
+# Hiking
+
+## 2013
 
 | Trail | Distance | Location |
 | Bear Peak | | Boulder, CO |
@@ -7,7 +9,8 @@
 | Lake Isabelle | | Ward, CO | 
 | Mt. Shavano (14er) | | Salida, CO |
 | Rollins Pass | | Rollinsville, CO |
-====== 2012 ======
+
+## 2012
 
 | Trail | Distance | Location |
 | Bear Lake/The Loch | | Estes Park/RMNP |
