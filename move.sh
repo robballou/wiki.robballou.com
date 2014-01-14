@@ -1,0 +1,1 @@
+find dokuwiki-2013-05-10a/data/pages/ -type f -name "*.txt" -exec cp {} . \;
