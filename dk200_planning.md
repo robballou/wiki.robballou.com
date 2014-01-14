@@ -1,6 +1,4 @@
-« [[Cyclocross|Back to CX]]
-
-====== DK 200 2012 ======
+# DK 200 Planning 2012
 
 Planning notes for the DK200 2012
 
@@ -15,15 +13,16 @@ Things to figure out:
   * bike fit
 
 [[http://pinboard.in/u:robballou/t:dk200/]]
-===== SCHEDULE =====
+
+## SCHEDULE
 
 [[http://www.dirtykanza200.com/schedule-of-events/]]
 
-==== Lodging ====
+## Lodging
 
 June 1 and June 2: Holiday Inn Express, 2921 W. 18th Ave, Emporia, KS
 
-==== Schedule ====
+## Schedule
 
 **Wednesday:**
 
@@ -54,7 +53,8 @@ June 1 and June 2: Holiday Inn Express, 2921 W. 18th Ave, Emporia, KS
   * Finish!
   * Party!
   * Sleep!
-===== CLOTHING =====
+
+## Clothing
 
 In general clothing list. Obviously not all on the ride.
 
@@ -75,7 +75,7 @@ Just in case:
   * Arm warmers
   * sun sleeves?
 
-===== GEAR =====
+## Gear
 
   * Helmet
   * Water bottles, large, 6 (refill and reuse after checkpoints?)
@@ -110,7 +110,7 @@ Just in case:
   * Bug sprayer with cold water
   * Foot powder
 
-===== FOOD/DRINK =====
+## FOOD/DRINK
 
   * Breakfast, bagels, PB, banana
   * Dinner (maybe want something safe?)
@@ -122,7 +122,7 @@ Just in case:
   * Beer for post ride. Need a "goal beer"
   * Beer, food, soda for SAG
 
-==== Food ideas ====
+## Food Ideas
 
   * Chips
   * Banana
@@ -131,8 +131,7 @@ Just in case:
   * Plain pasta
   * simple burrito
 
-
-===== SAG =====
+## SAG
 
   * Tubes
   * Tires
