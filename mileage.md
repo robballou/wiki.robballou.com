@@ -1,6 +1,4 @@
-====== Mileage ======
-
-« [[Start]]
+# Mileage
 
 Starting in 2011, tracking mileage by GPS only. Results will likely vary.
 
