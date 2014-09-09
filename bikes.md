@@ -8,15 +8,12 @@ MTB, 29er, full suspension, 2x10
 
 CX, 2x10
 
-## 2007 Specialized Allez: "Sonja"
-
-Road, 2x10
-
 ## 2007 Gary Fisher Rig: "Sierra"
 
 MTB, 29er, 1x1
 
 ## Past Bikes
 
+  * 2007 Specialized Allez: "Sonja"
   * 2004 Specialized Rockhopper
   * 1970s Motobécane
