@@ -1,8 +1,15 @@
 This page combines all the races.
 
-====== 2013 ======
+## 2014
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
+| OT 100 MTB Point to Point | Steelville, MO | Men's Open | 18th | |
+
+## 2013
+
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **[CX] Storm the Castle** (9/28) | Castle Rock, CO | SM 4 | 19th out of 20 | |
 | **Breck 32** (7/14) | Breckenridge, CO | Half Marathon | 20th out of 25 AG; 101 out of 133 | 4:15:04 |
 | **PV Cycle Derby** (6/1) | Elbert, CO | Half Marathon | | |
@@ -10,9 +17,11 @@ This page combines all the races.
 | **Battle the Bear** (5/5) | Lakewood, CO | Half Marathon | 34th out of 41 AG; 112 out of 145 | 2:23:03 |
 | **Ridgeline Rampage** (4/27) | Castle Rock, CO | Half Marathon | 39th out of 45 AG; 143 out of 178 | 3:02:53 |
 | **AntiEpic** (4/6) | Castle Rock, CO | Gravel | 18th out of 18th | 13:47:39 163.80mi |
-====== 2012 ======
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+## 2012
+
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **[CX] Boulder CX #2** | Longmont, CO | SM Cat 4 | 55th out of 75 | |
 | **[CX] Boulder CX #1: Valmont** | Boulder, CO | SM Cat 4 | 51st | |
 | **PV Cycle Derby** | Elbert, CO | Half Marathon | DNF | |
@@ -20,9 +29,11 @@ This page combines all the races.
 | **Dirty Kanzaa 200** (6/2) | Emporia, KS | 200 mile | 106 | 15:49 |
 | **Ridgeline Rampage** (4/5) | Castle Rock, CO | Half Marathon | 28th out of 38 | [[Ridgeline Rampage 2012|2:49:40]] |
 | **Lost Valley Luau** (3/25) | Weldon Springs, MO | Marathon | 29th out of 38 | [[LV 2012|4 laps]] |
-====== 2011 ======
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+## 2011
+
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **[CX] Bubba #10, Jefferson Barracks** (11/27) | St. Louis, MO | C Race | 19th out of 40 | |
 | **[CX] Bubba #7, Concordia Seminary** (11/12) | Clayton, MO | C Race | 16th out of 50 | |
 | **[CX] Bubba #5, Faust Park** (10/30) | Chesterfield, MO | C Race | 14th out of 29 | |
@@ -44,9 +55,10 @@ This page combines all the races.
 | **Greensfelder Challenge** (5/7) | Eureka, MO | Marathon | 18th of 29 | [[2011 Greensfelder Challenge|3 laps]] |
 | **Middelfork XC Non-Race** (5/1) | Enough, MO | Men | 4:21 | [[2011 Middlefork|Notes]] |
 
-====== 2010 ======
+## 2010
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **Berryman Trail Epic** (10/23) | Steelville, MO | 30-39 | 116th out 206 (overall)/39th out of 58 in AG | [[2010 BT Epic|6:36:31]] |
 | **Burnin at the Bluff **(10/9) | Potosi, MO | 12 hour solo | 10th out of 20 (unofficial) | [[2010 Burning|5 Laps/10:08:24]] |
 | **Tall Oaks 6 Hour **(9/4) | Jefferson City, MO | Duo (Mixed) | 12th out of 14 | 9 Laps/6:38:57 |
@@ -67,9 +79,10 @@ This page combines all the races.
 | **Bone Bender** (4/18) | Paradise, MO | 6 hour solo, 19-34 | 63rd of 83 (4 laps) | [[/2010-Bone-Bender|Notes]], [[http://robballou.com/blog/2010/bone_bender_and_tour_de_tick/|Blog]] |
 | **Leadbelt XC** (3/14) | Park Hills, MO | Cat 2/Sport 30-39 | 8th of 8 | [[/2010-Leadbelt|Notes]], [[http://robballou.com/blog/2010/this_is_racing/|Blog]] |
 
-====== 2009 ======
+## 2009
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **Berryman Epic** (10/25) | Steelville, MO | Race | 86th out of 123 | [[/2009-BTEpic|Notes]] |
 | **Truman Lake:** MWFTS #13 (10/4) | Warsaw, MO | Marathon | 9th out of 10 | [[/2009-Warsaw|Notes]] |
 | **Rapture in Misery **(8/15) | Trenton, MO | 6 hour solo 29 and under | 6th (5th) out of 11 | [[/2009-RIM|Notes]], [[http://robballou.com/blog/2009/long_bike_weekend_rim_uar/|Blog]] |
@@ -85,8 +98,9 @@ This page combines all the races.
 | **Le Tour de Tick:** MWFTS #3 (4/19) | Neosho, MO | Beginner 20-29 | 2nd out of 9 | [[/2009-Le-Tour-de-Tick-Notes|Notes]], [[http://robballou.com/blog/2009/tour_de_mud/|Blog]] |
 | **Lost Valley Luau:** MWFTS #1 (3/22) | St. Louis, MO | Beginner 20-29 | 2nd out of 3 | [[/2009-Lost-Valley-Luau-Notes|Notes]], [[http://robballou.com/blog/2009/2009_lost_valley_luau_recap/|Blog]] |
 
-====== 2008 ======
+## 2008
 
-^ **Race** ^ **Location** ^ **Category** ^ **Place** ^ **Notes** ^
+| Race | Location | Category | Place | Notes |
+| ---- | -------- | -------- | ----- | ----- |
 | **Burnin' at the Bluff** (10/11) | Potosi, MO | 6 hour solo | 12th out of 20 | 6:25:25 (fastest: 1:48:17), [[2008 Burning|3 laps]] |
 | **Veloforce Dirt Crit Series Finale** (10/5) | St. Louis, MO | C-race | 7th out of 13 |
