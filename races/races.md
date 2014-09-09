@@ -5,6 +5,8 @@ This page combines all the races.
 | Race | Location | Category | Place | Notes |
 | ---- | -------- | -------- | ----- | ----- |
 | OT 100 MTB Point to Point | Steelville, MO | Men's Open | 18th | |
+| AntiEpic 160 | Monument, CO | Open | DNF | |
+| Ridgeline Rampage | Castle Rock, CO | Singlespeed | | |
 
 ## 2013
 
