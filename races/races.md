@@ -86,12 +86,19 @@ This page combines all the races.
 
 | Race | Location | Category | Place | Notes |
 | ---- | -------- | -------- | ----- | ----- |
-| **Berryman Epic** (10/25) | Steelville, MO | Race | 86th out of 123 | [[/2009-BTEpic|Notes]] |
-| **Truman Lake:** MWFTS #13 (10/4) | Warsaw, MO | Marathon | 9th out of 10 | [[/2009-Warsaw|Notes]] |
-| **Rapture in Misery **(8/15) | Trenton, MO | 6 hour solo 29 and under | 6th (5th) out of 11 | [[/2009-RIM|Notes]], [[http://robballou.com/blog/2009/long_bike_weekend_rim_uar/|Blog]] |
-| **Spanish Lake:** MWFTS #9 (8/9) | St. Louis, MO | Beginner 20-29 | 1st out of 5 | [[/2009-Spanish-Lake|Notes]] |
-| **Castlewood Challenge:** MWFTS #4 (8/2) | St. Louis, MO | Beginner 20-29 | 3rd out of 9 | [[/2009-Castlewood-Challenge|Notes]] |
-| **Alpine Shop Dirt Crit #5** (7/30) | St. Louis, MO | B-Race | 38th out of 55 | [[/2009-Dirt-Crit-5|Notes]], [[http://robballou.com/blog/2009/final_dirt_crit_2009/|Blog]] |
+| [CX] Missouri State CX Championships | Hermann, MO | Category 4 | 32nd out of 39 | |
+| [CX] Bubbacross #8 | Augusta, MO | "C" Race, 28th out of 33 | | 
+| [CX] Bubbacross #7 | St. Louis, MO | "C" Race, 24th out of 37 | |
+| [CX] Bubbacross #6 | St. Louis, MO | "C" Race | DNF | |
+| [CX] Berryman Epic (10/25) | Steelville, MO | Race | 86th out of 123 | [[/2009-BTEpic|Notes]] |
+| [CX] Bubbacross #1 (10/17) | St. Louis, MO | "C" Race | 19th out of 33 | |
+| Truman Lake MWFTS #13 (10/4) | Warsaw, MO | Marathon | 9th out of 10 | [[/2009-Warsaw|Notes]] |
+| [CX] Hermann Cross Under the Lights (9/19) | Hermann, MO | Category 4 | 36th out of 39 | |
+| [CX] Bearcat Cross (9/13) | Hermann, MO | Beginner | 2nd out of 11 | |
+| Rapture in Misery (8/15) | Trenton, MO | 6 hour solo 29 and under | 6th (5th) out of 11 | [[/2009-RIM|Notes]], [[http://robballou.com/blog/2009/long_bike_weekend_rim_uar/|Blog]] |
+| Spanish Lake MWFTS #9 (8/9) | St. Louis, MO | Beginner 20-29 | 1st out of 5 | [[/2009-Spanish-Lake|Notes]] |
+| Castlewood Challenge MWFTS #4 (8/2) | St. Louis, MO | Beginner 20-29 | 3rd out of 9 | [[/2009-Castlewood-Challenge|Notes]] |
+| Alpine Shop Dirt Crit #5 (7/30) | St. Louis, MO | B-Race | 38th out of 55 | [[/2009-Dirt-Crit-5|Notes]], [[http://robballou.com/blog/2009/final_dirt_crit_2009/|Blog]] |
 | **Show-Me Games:** MWFTS #8 (7/26) | Columbia, MO | Beginner 20-29 | 1st out of 8 | [[/2009-Show-Me-Notes|Notes]] |
 | **Alpine Shop Dirt Crit #3** (7/16) | St. Louis, MO | B-Race/C-Race | DNF (twice) |  |
 | **OMBA Caramba:** MWFTS #7 (7/12) | Springfield, MO | Beginner 20-29 | 4th out of 11 | [[/2009-OMBA-Notes|Notes]] |
