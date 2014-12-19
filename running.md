@@ -2,7 +2,8 @@
 
 ## Mileage
 
-^ Month ^ Road ^ Trail ^ Total ^ TTD ^
+| Month | Road | Trail | Total | TTD |
+|-------|------|-------|-------|-----|
 | January 2012 | 3.19 | 4.52 | 7.71 | 7.71 |
 | December 2011 | 19.25 | 2.03 | 21.28 | 73.88 |
 | November 2011 | 7.56 | 4.35 | 11.91 | 52.6 |
