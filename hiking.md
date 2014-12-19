@@ -3,6 +3,7 @@
 ## 2013
 
 | Trail | Distance | Location |
+|-------|----------|----------|
 | Bear Peak | | Boulder, CO |
 | Grays & Torreys (14ers) | | Colorado |
 | Kenosha Pass/CT | | Jefferson, CO |
@@ -13,6 +14,7 @@
 ## 2012
 
 | Trail | Distance | Location |
+|-------|----------|----------|
 | Bear Lake/The Loch | | Estes Park/RMNP |
 | Burro Trail, Golden Gate Canyon SP | | Golden, CO |
 | Missouri Gulch (Missouri Mtn) | | Clear Creek, CO |
