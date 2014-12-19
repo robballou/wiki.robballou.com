@@ -6,7 +6,7 @@
 |-------|----------|----------|
 | Bear Peak | | Boulder, CO |
 | Crater Lakes | | Rollinsville, CO |
-| Delicate Arch | | Arches, NP |
+| Delicate Arch | | Arches NP, UT |
 | East Portal | | Estes Park, CO |
 | Little Scraggy Peak | | Buffalo Creek, CO |
 | Mesa Arch | | Canyonlands NP, UT |
