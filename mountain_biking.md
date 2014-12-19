@@ -8,11 +8,11 @@
   * [[/2009-Mountain-Biking-Log|2009 Mountain Biking Log]]
   * [[/2008+Mountain+Biking+Log|2008 Mountain Biking Log]]
 
-====== Bike ======
+## Bikes
 
   * 2011 Salsa Spearfish
   * 2007 Gary Fisher Rig (1x1)
 
-====== Stats ======
+## Stats
 
 **Longest distance in one ride:** 100 miles (Ozark Trail 100)
