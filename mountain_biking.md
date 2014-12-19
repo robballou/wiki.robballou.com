@@ -15,4 +15,4 @@
 
 ====== Stats ======
 
-**Longest distance in one ride:** 91 miles (Burnin at the Bluff 2011, 12 hour solo)
+**Longest distance in one ride:** 100 miles (Ozark Trail 100)
