@@ -2,8 +2,8 @@
 
 Starting in 2011, tracking mileage by GPS only. Results will likely vary.
 
-| Month | Road & CX | MTB | Total | YTD |
-|-------|-----------|-----|-------|-----|
+| Month | Road | CX | MTB | Total | YTD |
+|-------|------|----|-----|-------|-----|
 | January 2013 | 241.85 | 0.00 | 45.55 | 287.40 | 287.40 |
 | February 2013 | 205.77 | 32.24 | 62.61 | 300.62 | 588.02 |
 | March 2013 | 125.78 | 311.25 | 95.53 | 532.56 | 1,120.58 |
