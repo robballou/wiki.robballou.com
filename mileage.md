@@ -2,7 +2,8 @@
 
 Starting in 2011, tracking mileage by GPS only. Results will likely vary.
 
-^ Month ^ Road & CX ^ MTB ^ Total ^ YTD ^ TTD ^
+| Month | Road & CX | MTB | Total | YTD | TTD |
+|-------|-----------|-----|-------|-----|-----|
 | December 2011 | 25.54 | 11.39 | 36.93 | 3,124.23 | 3,124.23 |
 | November 2011 | 128.88 | 69.38 | 190.26 | 3,087.30 | 3,087.30 |
 | October 2011 | 100.94 | 192.37 | 293.31 | 2,897.04 | 2,897.04 |
