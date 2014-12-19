@@ -1,5 +1,22 @@
 # Hiking
 
+## 2014
+
+| Trail | Distance | Location |
+|-------|----------|----------|
+| Bear Peak | | Boulder, CO |
+| Crater Lakes | | Rollinsville, CO |
+| Delicate Arch | | Arches, NP |
+| East Portal | | Estes Park, CO |
+| Little Scraggy Peak | | Buffalo Creek, CO |
+| Mesa Arch | | Canyonlands NP, UT |
+| Missouri Mountain (14er) | | Buena Vista, CO |
+| Mt Evans (14er) | | Guanella Pass, CO |
+| Quandary Peak (14er) | | Breckenridge, CO |
+| Rolling Creek Trail | | Bailey, CO |
+| Slick Rock | | Canyonlands NP, UT |
+| Upheaval Dome | | Canyonlands NP, UT |
+
 ## 2013
 
 | Trail | Distance | Location |
