@@ -2,7 +2,7 @@
 
 ## 2015 Salsa Mukluk: "Katara"
 
-Fatbike, rigid, 2x10
+Fat bike (26x4.0), rigid, 2x10
 
 ## 2011 Salsa Spearfish: "Veronica"
 
