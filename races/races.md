@@ -41,11 +41,11 @@ This page combines all the races.
 | **[CX] Bubba #7, Concordia Seminary** (11/12) | Clayton, MO | C Race | 16th out of 50 | |
 | **[CX] Bubba #5, Faust Park** (10/30) | Chesterfield, MO | C Race | 14th out of 29 | |
 | **[CX] Bubba #4, Faust Park** (10/29) | Chesterfield, MO | C Race | 13th out of 33 | |
-| **BT Epic** (10/22) | Steelville, MO | 30-39 | 110 overall, 29th AG | [6:12](2011-BTEpic.md) |
+| **BT Epic** (10/22) | Steelville, MO | 30-39 | 110 overall, 29th AG | [6:12](2011-berryman-epic.md) |
 | **[CX] Bubba #2, Queeny Park** (10/16) | Ballwin, MO | C race/Cat 4 | 27 out of 46 | |
-| **Burnin' at the Bluff 12 hour** (10/8) | Potosi, MO | 12 hour solo | 5th out of 13 | [[2011 Burning|7 laps/12:53:19]] |
+| **Burnin' at the Bluff 12 hour** (10/8) | Potosi, MO | 12 hour solo | 5th out of 13 | [7 laps/12:53:19](2011-burning.md) |
 | **[CX] Gateway Cross Cup** (9/21) | St. Louis, MO | Category 4 | 16th out of 34 | |
-| **Tall Oak** (8/28) | Jefferson City, MO | 6 hour solo | 16th out of 39 | [[2011 Tall Oak|8 laps]] |
+| **Tall Oak** (8/28) | Jefferson City, MO | 6 hour solo | 16th out of 39 | [8 laps](2011-tall-oak.md) |
 | **Show-Me Games** (8/7) | Columbia, MO | Marathon | 3rd (AG) | [[2011 SMSG|4 laps]] |
 | **Dirt Crits #4** (7/28) | Ballwin, MO | B race | DNF |  |
 | **Dirt Crits #3** (7/21) | Ballwin, MO | B race | 23rd out of 57 |  |
@@ -53,7 +53,7 @@ This page combines all the races.
 | **Dirt Crits #2** (7/14) | Ballwin, MO | B race | 18th out of 47 |  |
 | **Castlewood** (7/9) | Ballwin, MO | Marathon | 15th of 25 | 5 laps |
 | **Dirt Crits #1** (6/30) | Ballwin, MO | B race | 25th out of 50 |  |
-| **Indian Creek Camp 6 hour** (5/22) | Wentzville, MO | Men | 14th out of 20, 8 DNF | [[2011 ICC|5 laps, 4:46]] |
+| **Indian Creek Camp 6 hour** (5/22) | Wentzville, MO | Men | 14th out of 20, 8 DNF | [5 laps, 4:46](2011-icc.md) |
 | **Syllamo's Revenge 50 mile** (5/14) | Mountain View, AR | 30-39 | 133rd out of 201 overall, 32nd out of 50 in AG | [[2011 Syllamos Revenge|7:22:11]] |
 | **Greensfelder Challenge** (5/7) | Eureka, MO | Marathon | 18th of 29 | [[2011 Greensfelder Challenge|3 laps]] |
 | **Middelfork XC Non-Race** (5/1) | Enough, MO | Men | 4:21 | [[2011 Middlefork|Notes]] |
