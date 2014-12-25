@@ -41,7 +41,7 @@ This page combines all the races.
 | **[CX] Bubba #7, Concordia Seminary** (11/12) | Clayton, MO | C Race | 16th out of 50 | |
 | **[CX] Bubba #5, Faust Park** (10/30) | Chesterfield, MO | C Race | 14th out of 29 | |
 | **[CX] Bubba #4, Faust Park** (10/29) | Chesterfield, MO | C Race | 13th out of 33 | |
-| **BT Epic** (10/22) | Steelville, MO | 30-39 | 110 overall, 29th AG | [[2011 BTEpic|6:12]] |
+| **BT Epic** (10/22) | Steelville, MO | 30-39 | 110 overall, 29th AG | [6:12](2011-BTEpic.md) |
 | **[CX] Bubba #2, Queeny Park** (10/16) | Ballwin, MO | C race/Cat 4 | 27 out of 46 | |
 | **Burnin' at the Bluff 12 hour** (10/8) | Potosi, MO | 12 hour solo | 5th out of 13 | [[2011 Burning|7 laps/12:53:19]] |
 | **[CX] Gateway Cross Cup** (9/21) | St. Louis, MO | Category 4 | 16th out of 34 | |
