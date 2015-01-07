@@ -40,7 +40,7 @@ This table is a list of segment distances and detour distances. Based on this in
 
 ## Timeline
 
-~50 miles per day average = 11 days.
+Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 
 ### Durango to Denver
 
