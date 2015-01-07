@@ -47,7 +47,7 @@ Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 | Day | Segments | Distance | Notes |
 |-----|----------|----------|-------|
 | 1   | 28, 27 | 42.1 | 6k' elevation gain, >12k down to 10k |
-| 2   | 26, 25, Detour | 49.1 | 8k', high ev |
+| 2   | 26, 25, Detour | 49.1 | 8k', high ev, Silverton |
 | 3   | 23, 22, Detour | 89.2 | CT highest point, high ev |
 | 4   | 18, 17 | 32.7 | Climbing to >11k |
 | 5   | 16, 15 | 29.5 | Above 11k down to <9k |
