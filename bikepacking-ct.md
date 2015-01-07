@@ -37,3 +37,23 @@ This table is a list of segment distances and detour distances. Based on this in
 | 27 | 20.6 |
 | 28 | 21.5 |
 | TOTAL | 550.6 |
+
+## Timeline
+
+~50 miles per day average = 11 days.
+
+### Durango to Denver
+
+| Day | Segments | Distance |
+|-----|----------|----------|
+| 1   | 28, 27 | 42.1 |
+| 2   | 26, 25, Detour | 49.1 |
+| 3   | 23, 22, Detour | 89.2 |
+| 4   | 18, 17 | 32.7 |
+| 5   | 16, 15 | 29.5 |
+| 6   | 14, 13, Detour | |
+| 7   | 11, Detour, 9 | |
+| 8   | 8, 7, 6 | |
+| 9   | 5, Detour | |
+| 10  | 3, 2, 1 | |
+| 11  | | |
