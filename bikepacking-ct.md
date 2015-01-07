@@ -55,6 +55,6 @@ This table is a list of segment distances and detour distances. Based on this in
 | 7   | 11, Detour, 9 | 45.5 |
 | 8   | 8, 7 | 70.9 |
 | 9   | 6, 5 | 40.7 |
-| 10  | Detour | 71.6 |
+| 10  | Detour (7k gain) | 71.6 |
 | 11  | 3, 2, 1 | 40.5 |
 | 12  | | |
