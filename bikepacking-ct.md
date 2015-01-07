@@ -4,7 +4,7 @@ Planning for bikepacking the Colorado Trail.
 
 ## Distances
 
-* Trail distance: 567 w/o detours
+* Trail distance: 567 miles w/o detours
 
 | Segment | Distance |
 |---------|----------------|
