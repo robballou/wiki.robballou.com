@@ -46,7 +46,7 @@ Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 
 | Day | Segments | Distance |
 |-----|----------|----------|
-| 1   | 28, 27 | 42.1 |
+| 1   | 28, 27 (6k') | 42.1 |
 | 2   | 26, 25, Detour | 49.1 |
 | 3   | 23, 22, Detour | 89.2 |
 | 4   | 18, 17 | 32.7 |
@@ -55,6 +55,6 @@ Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 | 7   | 11, Detour, 9 | 45.5 |
 | 8   | 8, 7 | 70.9 |
 | 9   | 6, 5 | 40.7 |
-| 10  | Detour (7k gain) | 71.6 |
+| 10  | Detour (7k') | 71.6 |
 | 11  | 3, 2, 1 | 40.5 |
 | 12  | | |
