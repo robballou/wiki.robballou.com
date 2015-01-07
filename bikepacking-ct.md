@@ -34,3 +34,4 @@ Planning for bikepacking the Colorado Trail.
 | 26 | 10.9 |
 | 27 | 20.6 |
 | 28 | 21.5 |
+| TOTAL | 550.6 |
