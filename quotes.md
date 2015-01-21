@@ -1,4 +1,4 @@
-"Like the newspapers used to say, if the truth isn't big enough, you print the legend. This country needs its legends. And even the legends don't believe it anymore."
+"Like the newspapers used to say, if the truth isn't big enough, you print the legend. This country needs its legends. And even the legends don't believe it anymore." - American Gods, Neil Gaiman
 
 "I didn't understand where this man had come from, this lion who'd replaced my docile, frail excuse for a parent. A lion protecting his cubs. He knew that fear was the only weapon he had left to save my life and if I didn't fear the threat of the plague, then dammit, I was going to fear him!" - World War Z, Max Brooks
 
