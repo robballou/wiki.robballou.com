@@ -9,4 +9,6 @@
 
 "Yes, they were lies and sometimes that's not a bad thing. Lies are neither bad nor good. Like a fire they can either keep you warm or burn you to death, depending on how they're used." – World War Z, Max Brooks
 
+"She never let up, never gave me an inch. 'What are you, some weak little victim?' At that point I thought I was. I knew I could never make it. The exhaustion, the pain, more than anything, I think, the anger at fucking up so badly. I actually considered turning my pistol around, wanting to punish myself for ... you know. And then Mets really hit me. She roared, 'What are you, your fucking mother!?!'" – World War Z, Max Brooks
+
 "Maybe she wasn't a pilot herself, maybe she was married to one, maybe she'd wanted to be one but never made it as far as I did. Maybe she was just scared, lonely voice that did what she could to help another scared lonely voice from ending up like her. Who cares who she was, or is? She was there when I needed her, and for the rest of my life, she'll always be with me." – World War Z, Max Brooks
