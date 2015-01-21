@@ -4,7 +4,7 @@
 
 "You can't blame anyone else, not the plan's architect, not your commanding officer, no one but yourself. You have to make your own choices and live every agonizing day with the consequences of those choices. He knew this. That's why he deserted us like we deserted those civilians. He saw the road ahead, a steep, treacherous mountain road. We'd all have to hike that road, each of us dragging the boulder of what we'd done behind us. He couldn't do it. He couldn't shoulder the weight." – World War Z, Max Brooks
 
-"So why did you film them?"
+"So why did you film them?"  
 "Because Americans worship technology. It's an inherent trait in the national zeitgeist. Whether we realize it or not, even the most indefatigable Luddite can't deny our country's technoprowess. We split the atom, we reached the moon, we've filled every household and business with more gadgets and gizmos than early sci-fi writers could have ever dreamed of. I don't know if that's a good thing. I'm in no place to judge. But I do know that just like all those ex-atheists in foxholes, most Americans were still praying for the God of science to save them." – World War Z, Max Brooks
 
 "Yes, they were lies and sometimes that's not a bad thing. Lies are neither bad nor good. Like a fire they can either keep you warm or burn you to death, depending on how they're used." – World War Z, Max Brooks
