@@ -12,3 +12,5 @@
 "She never let up, never gave me an inch. 'What are you, some weak little victim?' At that point I thought I was. I knew I could never make it. The exhaustion, the pain, more than anything, I think, the anger at fucking up so badly. I actually considered turning my pistol around, wanting to punish myself for ... you know. And then Mets really hit me. She roared, 'What are you, your fucking mother!?!'" – World War Z, Max Brooks
 
 "Maybe she wasn't a pilot herself, maybe she was married to one, maybe she'd wanted to be one but never made it as far as I did. Maybe she was just scared, lonely voice that did what she could to help another scared lonely voice from ending up like her. Who cares who she was, or is? She was there when I needed her, and for the rest of my life, she'll always be with me." – World War Z, Max Brooks
+
+"If you asked every engineer at NASA what the worst scenario for the Hab was, they'd all answer 'fire.' If you asked them what the result would be, they'd answer 'death by fire.'" – The Martian, Andy Weir
