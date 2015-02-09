@@ -53,7 +53,7 @@ Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 | 5   | 16, 15, 14 | 49.9 | Above 11k down to <9k |
 | 6   | 13, Detour | 51.2 | Hot springs, BV |
 | 7   | 11, Detour, 9 | 45.5 | Climbing, Leadville |
-| 8   | 7, 8 | 38.2 | Kokomo pass climb, >12k |
+| 8   | 7, 8 | 38.2 | Kokomo/Serle pass climb, >12k, Breck |
 | 9   | 6, 5 | 40.7 | >11k, Georgia pass, Kenosha |
 | 10  | Detour | 71.6 | 7k' gain, exposed |
 | 11  | 3, 2, 1 | 40.5 | S3 climb, S2 descend, S1 climb than descend |
