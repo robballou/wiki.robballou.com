@@ -14,3 +14,6 @@
 "Maybe she wasn't a pilot herself, maybe she was married to one, maybe she'd wanted to be one but never made it as far as I did. Maybe she was just scared, lonely voice that did what she could to help another scared lonely voice from ending up like her. Who cares who she was, or is? She was there when I needed her, and for the rest of my life, she'll always be with me." – World War Z, Max Brooks
 
 "If you asked every engineer at NASA what the worst scenario for the Hab was, they'd all answer 'fire.' If you asked them what the result would be, they'd answer 'death by fire.'" – The Martian, Andy Weir
+
+"Yes, these new young people, of the rising generation, who did not remember the days before the war or even the war itself – they were the hope of the world. Place diffeence did not have the significance to them.
+"It will end, Childan thought. Someday. The very idea of place. Not governed and governing, but people." – The Man in the High Castle, Philip K Dick
