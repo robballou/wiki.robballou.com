@@ -17,3 +17,5 @@
 
 "Yes, these new young people, of the rising generation, who did not remember the days before the war or even the war itself – they were the hope of the world. Place difference did not have the significance to them.  
 "It will end, Childan thought. Someday. The very idea of place. Not governed and governing, but people." – The Man in the High Castle, Philip K Dick
+
+"I believe he's got a lot of courage to write that book. If the Axis had lost the war, we'd be able to say and write anything we wanted, like we used to; we'd be one country and we'd have a fair legal system, the same one for all of us." – The Man in the High Castle, Philip K Dick
