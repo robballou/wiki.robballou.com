@@ -19,3 +19,5 @@
 "It will end, Childan thought. Someday. The very idea of place. Not governed and governing, but people." – The Man in the High Castle, Philip K Dick
 
 "I believe he's got a lot of courage to write that book. If the Axis had lost the war, we'd be able to say and write anything we wanted, like we used to; we'd be one country and we'd have a fair legal system, the same one for all of us." – The Man in the High Castle, Philip K Dick
+
+"[S]he wondered, wondered, shuffling back through a fat deckful of days which seemed (wouldn't she be first to admit?) more or less identical, or all pointed the same way subtly like a conjurer's deck, any odd one readily clear to a trained eye." – The Crying of Lot 49, Thomas Pynchon
