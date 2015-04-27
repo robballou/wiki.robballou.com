@@ -18,7 +18,7 @@ Carried daily in:
 * Multitool
 * Duct tape, paracord
 * Pills (headache, allergy, ...)
-* Light
+* Light, batteries
 * Lighter
 * Button compass
 * Watch
