@@ -24,6 +24,7 @@ Carried daily in:
 * Watch
 * Battery charger, cable for phone
 * Cash
+* Backup sunglasses
 
 # Urban, vehicle
 
