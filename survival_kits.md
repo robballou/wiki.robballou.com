@@ -23,7 +23,7 @@
 - [x] Battery charger, cable for phone  
 - [ ] Cash  
 - [ ] Backup sunglasses, case
-- [ ] Notebook, pen
+- [x] Notebook, pen
 
 # Urban, vehicle
 
@@ -40,6 +40,6 @@
 
 - [ ] Multitool that does not have knife?
 - [x] Compass
-- [ ] Duct tape, paracord
-- [ ] Notebook, pen
-- [ ] Small first aid kit, no tools
+- [x] Duct tape, paracord
+- [x] Notebook, pen
+- [x] Small first aid kit, clear ziplock
