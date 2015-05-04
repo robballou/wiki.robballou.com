@@ -14,12 +14,12 @@
 - [x] Water: Backup water container  
 - [x] Food: Small, high energy food snacks  
 - [ ] Minor first aid supplies  
-- [ ] Multitool  
-- [ ] Duct tape, paracord
+- [x] Multitool  
+- [x] Duct tape, paracord
 - [ ] Pills (headache, allergy, ...)  
 - [ ] Light, batteries  
 - [ ] Lighter  
-- [ ] Button compass  
+- [x] Compass  
 - [x] Battery charger, cable for phone  
 - [ ] Cash  
 - [ ] Backup sunglasses, case
@@ -35,3 +35,11 @@
 # Urban, in-home
 
 # Urban, bug out
+
+# Air travel
+
+- [ ] Multitool that does not have knife?
+- [x] Compass
+- [ ] Duct tape, paracord
+- [ ] Notebook, pen
+- [ ] Small first aid kit, no tools
