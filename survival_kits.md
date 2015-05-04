@@ -38,7 +38,7 @@
 
 # Air travel
 
-- [ ] Multitool that does not have knife?
+- [x] Multitool that does not have knife (supposedly, the leatherman Style PS is TSA complient, but still iffy on flying with this in carry-on)
 - [x] Compass
 - [x] Duct tape, paracord
 - [x] Notebook, pen
