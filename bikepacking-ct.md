@@ -58,3 +58,11 @@ Aiming at a start in mid-to-late August. ~50 miles per day average = 11 days.
 | 10  | Detour | 71.6 | 7k' gain, exposed |
 | 11  | 3, 2, 1 | 40.5 | S3 climb, S2 descend, S1 climb than descend |
 | 13  | | | |
+
+## Resupply
+
+- Silverton, day 2, minor resupply
+- BV, day 6, big resupply. 4 days
+- Leadville, day 7
+- Breck, day 8 (out of the way)
+- Denver, 4-5 days
