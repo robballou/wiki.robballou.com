@@ -29,3 +29,5 @@
 "The universe gave us three things to make life bearable: hope, jokes, and dogs. But the greatest of these was dogs." – Tracks, Mia Wasikowska (Robyn)
 
 "This rehearsel will end, the performance will end, the singers will die, eventually the last score of the music will be destroyed in one way or another; finally the name "Mozart" will vanish, the dust will have won. If not on this planet then another. We can evade it awhile. As the andys can evade me and exist a finite stretch longer. But I get them or some other bounty hunter gets them. In a way, he realized, I'm part of the form-destroying process of entropy. The Rosen Associate created and I unmake. Or anywho so it must seem to them." – Do Androids Dream of Electric Sheep?, Philip K Dick
+
+"[Y]ou're everything we jointly abominate. The essence of what we're committed to destroy." – Do Androids Dream of Electric Sheep?, Philip K Dick
