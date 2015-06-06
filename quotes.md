@@ -33,3 +33,5 @@
 "[Y]ou're everything we jointly abominate. The essence of what we're committed to destroy." – Do Androids Dream of Electric Sheep?, Philip K Dick
 
 "I thought as much, sir, when you mentioned rabbits. The thing about rabbits, sir, is that everybody has one. I'd like to see you step up to the goat-class where I feel you belong. Frankly you look more like a goat man to me." – Do Androids Dream of Electric Sheep?, Philip K Dick
+
+"You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every create which lives must do so. It is the ultimate shadow, the defeat of creation; this is the curse at work, the curse that feeds on all life. Everywhere in the universe." – Do Androids Dream of Electric Sheep?, Philip K Dick
