@@ -35,3 +35,5 @@
 "I thought as much, sir, when you mentioned rabbits. The thing about rabbits, sir, is that everybody has one. I'd like to see you step up to the goat-class where I feel you belong. Frankly you look more like a goat man to me." – Do Androids Dream of Electric Sheep?, Philip K Dick
 
 "You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every create which lives must do so. It is the ultimate shadow, the defeat of creation; this is the curse at work, the curse that feeds on all life. Everywhere in the universe." – Do Androids Dream of Electric Sheep?, Philip K Dick
+
+"I felt like a kid standing in the world's greatest video arcade without any quarters, unable to do anything but walk around and watch other kids play." – Ready Player One, Ernest Cline
