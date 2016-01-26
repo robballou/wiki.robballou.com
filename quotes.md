@@ -38,5 +38,5 @@
 
 "I felt like a kid standing in the world's greatest video arcade without any quarters, unable to do anything but walk around and watch other kids play." – Ready Player One, Ernest Cline
 
-"Don't interrupt me!" She gave me another shove. "I've been practicing Joust nonstop for over a month now! I'm seeing flying ostriches in my goddamn sleep!"
+"Don't interrupt me!" She gave me another shove. "I've been practicing Joust nonstop for over a month now! I'm seeing flying ostriches in my goddamn sleep!"  
 "That can't be pleasant." – Ready Player One, Ernest Cline
