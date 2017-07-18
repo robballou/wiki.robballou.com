@@ -61,4 +61,4 @@
 
 ## *Guns, Germs, and Steel* by Jared Diamond 
 
-"The main killers were Old Wolrd germs to which Indians had never been exposed, and against which they therefor had neither immune nor genetic resistance. Smallpox, measles, influenze, and typhus competed for top rank amon the killers. As if these had not been enough, diptheria, malaria, mumps, pertussis, plague, tuberculosis, and yellow fever campe up close behind." – *Guns, Germs, and Steel*, Jared Diamond
+"The main killers were Old World germs to which Indians had never been exposed, and against which they therefor had neither immune nor genetic resistance. Smallpox, measles, influenze, and typhus competed for top rank amon the killers. As if these had not been enough, diptheria, malaria, mumps, pertussis, plague, tuberculosis, and yellow fever campe up close behind." – *Guns, Germs, and Steel*, Jared Diamond
