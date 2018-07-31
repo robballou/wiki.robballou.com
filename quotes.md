@@ -63,7 +63,7 @@
 
 "The main killers were Old World germs to which Indians had never been exposed, and against which they therefor had neither immune nor genetic resistance. Smallpox, measles, influenze, and typhus competed for top rank amon the killers. As if these had not been enough, diptheria, malaria, mumps, pertussis, plague, tuberculosis, and yellow fever campe up close behind." – *Guns, Germs, and Steel*, Jared Diamond
 
-## Fahrenheit 451 by Ray Bradbury
+## *Fahrenheit 451* by Ray Bradbury
 
 "He felt as if he had left a stage behind and many actors. He felt as if he had left the great seance and all the murmuring ghosts. He was moving from an unreality that was frightening into a reality that was unreal beacase it was new."
 
