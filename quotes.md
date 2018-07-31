@@ -62,3 +62,9 @@
 ## *Guns, Germs, and Steel* by Jared Diamond 
 
 "The main killers were Old World germs to which Indians had never been exposed, and against which they therefor had neither immune nor genetic resistance. Smallpox, measles, influenze, and typhus competed for top rank amon the killers. As if these had not been enough, diptheria, malaria, mumps, pertussis, plague, tuberculosis, and yellow fever campe up close behind." – *Guns, Germs, and Steel*, Jared Diamond
+
+## Fahrenheit 451 by Ray Bradbury
+
+"He felt as if he had left a stage behind and many actors. He felt as if he had left the great seance and all the murmuring ghosts. He was moving from an unreality that was frightening into a reality that was unreal beacase it was new."
+
+"Montag, falling flat, going down, saw or flet, or imagined he saw or felt the walls go dark in Millie's face, heard her screaming, because in the millinoth part of time left, she saw her own face reflected there, in a mirror instead of a crystal ball, and it was such a wildly empty face all by itelsef in the room, touching nothing, staved and eating of itself, that at last she recognized it as her own and looked quickly up at the ceiling as it and the entire structure of the hotel blasted down upon her, carrying her with a million pounds of brick, metal, plaster, and wood, to meet other people in the hives below, all on their quick way down to the cellar where the explosion rid itself of them in its own unreasonable way."
